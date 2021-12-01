@@ -1,1 +1,1 @@
-# -cheapest-flights-finder
+# cheapest-flights-finder
