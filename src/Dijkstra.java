@@ -27,12 +27,12 @@ public class Dijkstra {
 
         for (int[] flight: flights) {
             if (!map.containsKey(flight[0])) {
-                map.put(flight[0], new ArrayList<Flight>());
+                map.put(flight[0], new ArrayList<>());
             }
             map.get(flight[0]).add(new Flight(flight[0], flight[1], flight[2]));
         }
-        Comparator<Stop> cmp = (s1, s2) -> s1.cost - s2.cost;
-        PriorityQueue<Stop> q = new PriorityQueue<Stop>(cmp);
+        Comparator<Stop> cmp = Comparator.comparingInt(s -> s.cost);
+        PriorityQueue<Stop> q = new PriorityQueue<>(cmp);
 
         q.offer(new Stop(src, 0, K));
         while (q != null && !q.isEmpty()) {
