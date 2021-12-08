@@ -24,20 +24,20 @@ public class cheapestFlightsWithinKStops {
         System.out.println(BellmanFord.findCheapestPrice(17, e3, 13, 4, 13));
         long finish = System.nanoTime();
         long timeElapsed = finish - start;
-        System.out.println("Time elapsed in nanoseconds is: " + timeElapsed);
+        System.out.println("Time elapsed in nanoseconds is: " + timeElapsed + "\n");
 
         start = System.nanoTime();
         System.out.println(DFSWithPruning.findCheapestPrice(17, e3, 13, 4, 13));
         finish = System.nanoTime();
         timeElapsed = finish - start;
-        System.out.println("Time elapsed in nanoseconds is: " + timeElapsed);
+        System.out.println("Time elapsed in nanoseconds is: " + timeElapsed + "\n");
 
 
         start = System.nanoTime();
         System.out.println(Dijkstra.findCheapestPrice(17, e3, 13, 4, 13));
         finish = System.nanoTime();
         timeElapsed = finish - start;
-        System.out.println("Time elapsed in nanoseconds is: " + timeElapsed);
+        System.out.println("Time elapsed in nanoseconds is: " + timeElapsed + "\n");
 
     }
 }
