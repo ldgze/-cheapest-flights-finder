@@ -27,9 +27,17 @@ public class cheapestFlightsWithinKStops {
         System.out.println("Time elapsed in nanoseconds is: " + timeElapsed);
 
         start = System.nanoTime();
-        System.out.println(DFS.findCheapestPrice(17, e3, 13, 4, 13));
+        System.out.println(DFSWithPruning.findCheapestPrice(17, e3, 13, 4, 13));
         finish = System.nanoTime();
         timeElapsed = finish - start;
         System.out.println("Time elapsed in nanoseconds is: " + timeElapsed);
+
+
+        start = System.nanoTime();
+        System.out.println(Dijkstra.findCheapestPrice(17, e3, 13, 4, 13));
+        finish = System.nanoTime();
+        timeElapsed = finish - start;
+        System.out.println("Time elapsed in nanoseconds is: " + timeElapsed);
+
     }
 }

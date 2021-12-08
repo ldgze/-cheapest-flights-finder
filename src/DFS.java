@@ -2,6 +2,9 @@
 public class DFS {
     static int INF = 1000001;
     public static int findCheapestPrice(int n, int[][] flights, int src, int dst, int K) {
+        if (n == 0 || flights == null || flights.length == 0)
+            return -1;
+
         int cost = dfs(flights, src, dst, K + 1);
         return cost >= INF? -1 : cost;
     }
