@@ -18,15 +18,16 @@ public class DFS {
             return 0;
         }
 
-        int min = INF;
+        int cost = INF;
         for (int[] flight : flights) {
             if (flight[0] == i) {
-                min = Math.min(min, dfs(flights, flight[1], dst, k - 1) + flight[2]);
+                int weight = flight[2];
+                cost = Math.min(cost, dfs(flights, flight[1], dst, k - 1) + weight);
             }
         }
 
 
-        return min;
+        return cost;
     }
 
 
