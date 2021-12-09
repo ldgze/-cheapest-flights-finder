@@ -1,0 +1,1001 @@
+id,start,destination,price
+1,Evansville,Chesapeake,865.2
+2,Milwaukee,Akron,2442.37
+3,Thousand Oaks,Saginaw,2215.5
+4,Scranton,Cary,2232.97
+5,Mesquite,Escondido,216.55
+6,Hagerstown,Bel Air,330.11
+7,Hampton,Chandler,115.61
+8,Winston,Baltimore,374.21
+9,Fort Walton Beach,South Lyon,1345.41
+10,Myrtle Beach,Santa Maria,1536.03
+11,Oakland,North Port,769.12
+12,Lakeland,Fayetteville,993.02
+13,Fort Wayne,Coral Springs,1274.19
+14,Punta Gorda,Grand Rapids,2327.08
+15,El Monte,Norwalk,341.96
+16,Memphis,Miami,1529.8
+17,Palm Springs,Kalamazoo,93.05
+18,Norwich,New York,732.34
+19,Rancho Cucamonga,Buffalo,1624.76
+20,Jacksonville,Durham,2042.26
+21,Trenton,Cape Coral,1507.4
+22,Sunnyvale,Moreno Valley,348.19
+23,High Point,Kenosha,144.35
+24,Palm Bay,Cedar Rapids,1248.92
+25,San Antonio,Waco,1441.89
+26,Santa Ana,Waco,1770.74
+27,Richmond,Boston,1048.33
+28,Richmond County,Fort Lauderdale,2217.33
+29,San Buenaventura,Round Lake Beach,1019.04
+30,Pueblo,Saint Petersburg,222.38
+31,Fargo,Salinas,1581.23
+32,Huntington Beach,Sioux City,2037.95
+33,Vero Beach,Abilene,787.38
+34,Shreveport,Allentown,54.51
+35,Billings,Lansing,2412.89
+36,Evansville,Brighton,1711.69
+37,Philadelphia,Lansing,1487.72
+38,Charleston,Houston,2159.15
+39,Charleston,Richmond,2398.79
+40,Norfolk,Wichita,2052.61
+41,Santa Rosa,Monroe,2087.68
+42,Warren,Lakeland,2400.39
+43,Rockford,Newport News,448.4
+44,Panama City,Havre de Grace,1966.31
+45,Albuquerque,Independence,2008.34
+46,Chula Vista,Chattanooga,1028.15
+47,Arlington,Pasadena,537.82
+48,Dallas,Omaha,2035.82
+49,Brownsville,McHenry,2027.59
+50,Milwaukee,Santa Barbara,1598.3
+51,Fort Worth,Eugene,1569.04
+52,Corona,Clarke County,81.49
+53,Dayton,Newport News,1701.45
+54,Murrieta,Baltimore,1543.42
+55,Scranton,Kansas City,1413.73
+56,Tyler,Fort Collins,344.03
+57,Bonita Springs,Leominster,2310.62
+58,Norfolk,Hialeah,604.87
+59,Ontario,Mesa,242.37
+60,Saginaw,Ogden,1628.63
+61,El Paso,Tacoma,578.18
+62,Howell,Concord,843.69
+63,Kissimmee,Mesquite,1022.22
+64,Davidson County,York,2406.78
+65,Gastonia,Oxnard,1246.91
+66,Tulsa,Winter Haven,610.4
+67,Providence,North Charleston,1982.02
+68,Riverside,Deltona,716.84
+69,Cathedral City,Aurora,2015.43
+70,Moreno Valley,Riverside,1329.8
+71,Denver,Warren,1012.42
+72,Bonita Springs,Savannah,2060.53
+73,Ocala,Erie,1397.18
+74,Fremont,McHenry,1938.55
+75,Green Bay,San Jose,1015.11
+76,Birmingham,Huntington,558.43
+77,Virginia Beach,Los Angeles,2375.1
+78,Sunnyvale,Mission Viejo,204.08
+79,Boise City,Pittsburgh,934.01
+80,Evansville,Lake Charles,1343.14
+81,Racine,Lansing,2498.18
+82,Tallahassee,Baton Rouge,174.84
+83,Deltona,Overland Park,1901.72
+84,Corona,Vancouver,2236.47
+85,Waterbury,Tampa,2292.09
+86,Memphis,Havre de Grace,1458.02
+87,Jefferson,Hialeah,1255.9
+88,Brownsville,St. Paul,915.57
+89,Colorado Springs,Appleton,1025.92
+90,Boise City,Redding,2343.2
+91,Mobile,Orem,1991.35
+92,Canton,Antioch,2213.74
+93,Moreno Valley,Fargo,1992.01
+94,Huntsville,Cathedral City,363.22
+95,San Bernardino,San Diego,1591.33
+96,Wichita,San Francisco,368.86
+97,Alexandria,South Bend,977.92
+98,Yakima,Fort Wayne,1032.03
+99,Howell,Colorado Springs,1515.46
+100,Athens,Seattle,1167.46
+101,Norfolk,Shreveport,129.05
+102,Houston,Antioch,1112.67
+103,San Diego,Scranton,719.75
+104,Billings,Marysville,1137.66
+105,North Port,Springfield,1591.84
+106,Appleton,Mobile,1078.03
+107,Canton,Montgomery,408.26
+108,Coral Springs,Minneapolis,69.64
+109,St. Louis,Norwich,2185.11
+110,Huntsville,San Francisco,1481.76
+111,Fremont,Syracuse,455.89
+112,Huntington,St. Paul,2138.51
+113,Chandler,Clarke County,1360.15
+114,Arvada,Long Beach,1023.53
+115,Carrollton,Santa Ana,554.09
+116,Providence,Monterey,1904.73
+117,North Port,New Haven,2020.78
+118,Atlanta,Hollywood,1981.67
+119,Panama City,Myrtle Beach,1684.91
+120,Westminster,Westminster,304.52
+121,Elizabeth,Greenville,2287.29
+122,Madison,Cedar Rapids,2137.66
+123,Salinas,Syracuse,164.61
+124,Anaheim,Saint Paul,486.62
+125,Huntsville,Coral Springs,1463.49
+126,Cincinnati,Honolulu,1851.62
+127,Sioux Falls,Hesperia,1192.57
+128,Tucson,Charleston,1045.92
+129,Elizabeth,Vallejo,192.35
+130,San Jose,Sioux Falls,925.19
+131,Daytona Beach,Reno,2018.14
+132,Harrisburg,South Bend,763.15
+133,Pittsburgh,Boston,1911.6
+134,Howell,Independence,1043.59
+135,Kennewick,San Buenaventura,1385.61
+136,Danbury,Kenosha,302.97
+137,Tyler,Worcester,959.47
+138,Brighton,Salt Lake City,813.15
+139,Chesapeake,Port Arthur,2003.36
+140,McAllen,Fairfield,1454.83
+141,Vero Beach,Bellevue,720.91
+142,Downey,Chesapeake,1095.29
+143,Baltimore,Elkhart,985.23
+144,Reno,Santa Clara,1651.97
+145,Stamford,Stamford,1534.17
+146,Mesa,Utica,638.96
+147,Deltona,Odessa,1804.11
+148,Oklahoma City,Thornton,2233.86
+149,Victorville,Saginaw,2091.4
+150,Bakersfield,Utica,1964.48
+151,Kansas City,Bridgeport,835.82
+152,Oxnard,Roanoke,1216.0
+153,Richmond County,Greensboro,1312.97
+154,Cape Coral,Tulsa,1748.39
+155,Stockton,Jefferson,2061.14
+156,Hickory,Hickory,601.15
+157,Virginia Beach,West Covina,2274.85
+158,Oxnard,Denton,2037.58
+159,Palm Springs,Spokane,1756.07
+160,Pompano Beach,Danbury,1928.21
+161,Bryan,Thornton,1598.4
+162,Monterey,Merced,1655.48
+163,Anaheim,Port St. Lucie,1783.74
+164,Columbus,Los Angeles,1571.88
+165,Cleveland,Los Angeles,900.65
+166,Cary,Carrollton,859.54
+167,Harlingen,Fresno,437.21
+168,Muskegon,Topeka,1059.61
+169,Evansville,College Station,1833.52
+170,Memphis,Cambridge,2421.25
+171,Seattle,Medford,512.11
+172,Lorain,Akron,1171.84
+173,Leominster,Thousand Oaks,357.16
+174,Jersey City,Hialeah,165.48
+175,Manchester,Frederick,775.53
+176,Abilene,Boise,191.76
+177,Albuquerque,Boulder,2007.35
+178,Los Angeles,Fairfield,1030.31
+179,Layton,Duluth,2031.34
+180,Philadelphia,New York,348.07
+181,Evansville,Joliet,393.01
+182,Salt Lake City,West Valley City,1008.79
+183,Fairfield,Mission Viejo,2130.6
+184,Sioux City,Baltimore,338.31
+185,Cambridge,Yakima,380.43
+186,Gainesville,Coral Springs,1564.99
+187,Joliet,Grayslake,2496.95
+188,Hollywood,Layton,374.17
+189,Tacoma,Clearwater,1204.91
+190,Salt Lake City,Fort Wayne,150.08
+191,Scranton,Arvada,1363.95
+192,Newburgh,Laredo,2462.03
+193,Hialeah,North Las Vegas,939.38
+194,New Haven,Portland,1825.2
+195,Lakewood,Hayward,1997.18
+196,Detroit,Gulfport-Biloxi,443.47
+197,Denton,Poughkeepsie,2300.36
+198,Boise,Palm Bay,678.23
+199,Buffalo,Myrtle Beach,1785.42
+200,Charlotte,West Valley City,1315.47
+201,Las Vegas,Ogden,478.0
+202,Sarasota,Stamford,640.99
+203,Tampa,Merced,1020.63
+204,Asheville,El Paso,1627.73
+205,Elkhart,Des Moines,535.7
+206,Garden Grove,Westminster,2450.89
+207,Joliet,Lancaster,182.94
+208,Hialeah,Beaumont,1101.19
+209,Yonkers,Norman,1795.37
+210,Salt Lake City,Stockton,1371.09
+211,Thousand Oaks,Tyler,763.72
+212,Harlingen,Bethlehem,286.66
+213,Virginia Beach,Johnson City,1331.1
+214,Las Vegas,San Buenaventura,2372.71
+215,Eugene,Mission Viejo,1443.86
+216,College Station,Tucson,702.88
+217,Garden Grove,Waterbury,367.17
+218,Denver,Hampton,2115.15
+219,Harrisburg,Cleveland,2236.41
+220,Brighton,Kissimmee,2100.97
+221,College Station,Norman,848.65
+222,Pueblo,Johnson City,2395.28
+223,Port Orange,Vancouver,1354.19
+224,Torrance,Lakeland,1461.16
+225,Utica,Corpus Christi,617.58
+226,Leominster,Boulder,2179.55
+227,Santa Clara,Harlingen,1472.81
+228,Saginaw,Tuscaloosa,2372.02
+229,Pasadena,Oakland,73.43
+230,Fontana,Savannah,1438.25
+231,Durham,Boston,2176.72
+232,Atlantic City,Seattle,2124.44
+233,Louisville,Salt Lake City,500.94
+234,Sioux Falls,Cary,1407.36
+235,Saint Paul,Roanoke,1208.99
+236,Garland,Temecula,416.31
+237,Brighton,Daytona Beach,780.69
+238,Knoxville,Chesapeake,1106.41
+239,Saint Petersburg,Norwich,943.41
+240,Killeen,Boise City,2402.13
+241,Thornton,Danbury,636.41
+242,Joliet,Arlington,2279.6
+243,Waco,Aurora,2380.39
+244,Henderson,Sarasota,503.97
+245,Palmdale,Roanoke,1401.05
+246,Moreno Valley,Ann Arbor,1053.92
+247,Naperville,Monterey,663.21
+248,Waterloo,Fullerton,1215.36
+249,Orlando,Arlington,2075.55
+250,West Valley City,Brighton,726.38
+251,Wilmington,San Jose,2060.4
+252,Simi Valley,San Antonio,615.52
+253,Independence,Abilene,128.29
+254,Bloomington,Aberdeen,1708.91
+255,Visalia,Raleigh,2486.55
+256,Chandler,Norwich,1808.1
+257,Tucson,Hickory,771.27
+258,Gilbert,Bakersfield,1626.0
+259,Killeen,Kennewick,449.49
+260,Tyler,Clearwater,2232.63
+261,Knoxville,Vancouver,2247.58
+262,Richmond County,Port Arthur,1012.87
+263,Eugene,Newport News,2185.05
+264,Wichita,Moreno Valley,2002.12
+265,North Las Vegas,Tyler,883.1
+266,Albany,Boise,920.29
+267,Hemet,Scranton,1628.69
+268,Syracuse,North Charleston,1590.31
+269,Oklahoma City,Pomona,1166.98
+270,Akron,Spartanburg,412.37
+271,High Point,Vancouver,2102.29
+272,Ogden,Palmdale,1585.67
+273,Carrollton,Tallahassee,1132.49
+274,Honolulu,Flint,2388.52
+275,College Station,Cleveland,665.13
+276,McAllen,Seattle,1440.07
+277,Milwaukee,Punta Gorda,2095.32
+278,Allentown,Layton,1118.62
+279,Knoxville,Fort Wayne,2176.12
+280,Garden Grove,Miramar,997.6
+281,Ogden,Providence,189.84
+282,Seaside,Duluth,816.26
+283,Port Orange,Canton,960.91
+284,South Lyon,Sioux City,965.05
+285,South Bend,Phoenix,1842.67
+286,Escondido,Mesquite,2203.08
+287,Glendale,Salem,1098.85
+288,Pompano Beach,Fremont,1345.95
+289,Seaside,Pittsburgh,1940.46
+290,Hemet,Grayslake,1833.28
+291,Tulsa,Knoxville,2307.56
+292,Port Saint Lucie,Kansas City,2061.14
+293,Antioch,Poughkeepsie,912.11
+294,Lewisville,Springfield,156.71
+295,Aurora,Olympia,341.34
+296,Fayetteville,Kaneohe,1759.7
+297,Paterson,Leominster,1544.79
+298,Huntington Beach,Lansing,1510.23
+299,Garland,Pembroke Pines,78.59
+300,Albuquerque,Irvine,1380.24
+301,Syracuse,Gulfport-Biloxi,505.29
+302,Memphis,Bremerton,267.9
+303,Lorain,Scranton,1485.32
+304,Shreveport,Jersey City,592.47
+305,Costa Mesa,Olympia,2493.52
+306,Trenton,Aberdeen,1393.67
+307,Grand Prairie,Colorado Springs,2180.36
+308,Chula Vista,Boise City,144.22
+309,Harlingen,Nashua,1212.86
+310,Montgomery,Alexandria,1727.58
+311,Lorain,Denver,194.4
+312,Providence,Murrieta,843.15
+313,Amarillo,Henderson,2068.53
+314,Lubbock,Allentown,1353.18
+315,Pomona,Lowell,1333.61
+316,Thousand Oaks,Santa Maria,2022.31
+317,Pittsburgh,Richmond,780.04
+318,Glendale,Independence,1997.45
+319,Arlington,Yakima,2269.78
+320,Evansville,Athens,2488.47
+321,Athens,Louisville,1944.08
+322,Davidson County,Sioux Falls,1479.9
+323,Norman,Miami,577.35
+324,Saint Petersburg,Portland,785.69
+325,York,Daly City,1571.79
+326,Charleston,Naperville,2066.99
+327,Wilmington,Boulder,2261.08
+328,Tulsa,Roseville,432.36
+329,Lewisville,Simi Valley,1136.14
+330,Rancho Cucamonga,Olympia,655.35
+331,Havre de Grace,Odessa,1775.68
+332,Kaneohe,Norwich,1207.02
+333,Seattle,Waterloo,2317.88
+334,Sterling Heights,Asheville,981.3
+335,College Station,Punta Gorda,1171.77
+336,Irving,Sacramento,202.89
+337,Denton,Anchorage,2197.39
+338,Leominster,Orem,1615.82
+339,Grayslake,Alexandria,1489.91
+340,Port Saint Lucie,Riverside,787.61
+341,Fort Walton Beach,Manchester,2439.06
+342,Savannah,Jersey City,2427.44
+343,Mobile,Westminster,395.92
+344,Madison,Yakima,1340.08
+345,Lakeland,College Station,1195.0
+346,Omaha,Columbus,1629.06
+347,Davidson County,Muskegon,1499.83
+348,Charlotte,Gilbert,679.01
+349,Marina,Honolulu,1872.19
+350,Santa Rosa,Shreveport,2371.7
+351,Fullerton,Canton,2178.51
+352,Rockford,Vancouver,2054.13
+353,Pensacola,Bradenton,1201.01
+354,North Port,Frederick,1166.41
+355,Denver,Lexington,2207.17
+356,Mesquite,Sacramento,2051.85
+357,Kalamazoo,Tuscaloosa,1332.94
+358,Lakewood,Tacoma,1016.85
+359,Panama City,Augusta,1458.09
+360,Rochester,Reading,1345.67
+361,Monterey,Bellevue,1241.05
+362,Rochester,Allentown,497.85
+363,Fort Smith,Cary,497.81
+364,San Jose,Stamford,1694.34
+365,Tulsa,Huntington,2066.11
+366,New Bedford,Barnstable,282.04
+367,Colorado Springs,Newport News,515.94
+368,West Covina,Westminster,2023.45
+369,Huntsville,Tallahassee,1469.0
+370,Lafayette,Mesquite,288.04
+371,Santa Ana,South Lyon,1766.68
+372,Indianapolis,Danbury,1156.3
+373,Vallejo,Cambridge,1685.19
+374,Columbia,Costa Mesa,2403.88
+375,Paterson,Little Rock,1522.0
+376,Glendale,Tacoma,1214.16
+377,Westminster,Port Saint Lucie,1917.93
+378,Overland Park,Oklahoma City,726.49
+379,Harlingen,West Valley City,2433.81
+380,Tulsa,Irvine,442.14
+381,Cape Coral,Coral Springs,1476.24
+382,Huntington Beach,Elizabeth,2337.3
+383,Concord,Salinas,2156.25
+384,Fort Lauderdale,North Charleston,899.32
+385,Roanoke,Paterson,1621.02
+386,Victorville,Lewisville,901.3
+387,Port St. Lucie,Punta Gorda,478.99
+388,Aurora,Des Moines,1908.42
+389,Murfreesboro,Modesto,1029.22
+390,Los Angeles,Cambridge,2200.32
+391,Orlando,Tuscaloosa,2149.66
+392,St. Louis,York,386.03
+393,Brighton,Rochester,2020.07
+394,Cincinnati,Baton Rouge,797.06
+395,Port Arthur,Ocala,1323.42
+396,Lowell,Melbourne,1265.4
+397,Santa Clarita,Santa Ana,1129.0
+398,Jackson,Cathedral City,1000.43
+399,Duluth,Columbia,1735.0
+400,Glendale,Houma,1769.55
+401,Seattle,New York,413.31
+402,Green Bay,Kansas City,545.22
+403,Gastonia,Palmdale,1211.68
+404,Myrtle Beach,Columbus,109.85
+405,Arlington,Anaheim,2309.53
+406,Orange,Pembroke Pines,819.14
+407,Norwich,Fremont,2247.19
+408,South Lyon,Eugene,2251.86
+409,Cedar Rapids,San Bernardino,2436.11
+410,Aberdeen,Winter Haven,744.47
+411,Fort Lauderdale,Raleigh,2458.76
+412,Winston,Danbury,1617.21
+413,Manchester,Reading,207.12
+414,North Las Vegas,Tacoma,1141.23
+415,Port St. Lucie,Manchester,2497.26
+416,Lacey,Howell,1735.92
+417,Murfreesboro,Lowell,344.36
+418,Concord,Scottsdale,1331.01
+419,Marysville,Santa Rosa,1985.66
+420,Roanoke,Normal,1968.95
+421,Merced,Norwich,1306.22
+422,Newark,High Point,1332.96
+423,Kaneohe,Davenport,122.37
+424,Sarasota,Eugene,1184.48
+425,El Monte,Boulder,1381.07
+426,Norwalk,Deltona,1114.79
+427,Chesapeake,Palm Springs,1075.55
+428,Indianapolis,Lafayette,224.62
+429,Appleton,Huntsville,62.48
+430,Muskegon,Orlando,608.24
+431,Victorville,Santa Barbara,2159.12
+432,Bethlehem,Richland,409.14
+433,Barnstable,Indianapolis,185.12
+434,Houston,Ocala,1609.21
+435,Yonkers,GreenBay,2111.56
+436,Denton,Dayton,2200.93
+437,Danbury,Clarksville,1129.58
+438,Hickory,New Bedford,154.84
+439,Yonkers,Odessa,1598.95
+440,Hampton,Greensboro,1913.68
+441,Minneapolis,Lexington,664.21
+442,Mesquite,Cape Coral,2312.2
+443,Bellevue,Lincoln,553.1
+444,Savannah,McAllen,2465.45
+445,Tuscaloosa,McAllen,655.87
+446,Santa Clarita,Oklahoma City,1416.77
+447,Syracuse,Marysville,1185.6
+448,Stockton,Palmdale,1786.97
+449,New London,Kansas City,2405.68
+450,Allentown,Kalamazoo,102.91
+451,Irvine,Fort Collins,2280.52
+452,Ocala,Saint Paul,1825.85
+453,Pasadena,Normal,2219.64
+454,Omaha,Dallas,798.7
+455,Lake Charles,Jackson,945.03
+456,New London,Waterloo,1457.24
+457,Antioch,Ogden,421.67
+458,Joliet,Kalamazoo,1596.21
+459,Torrance,Columbus,1235.3
+460,Montgomery,Kansas City,1085.62
+461,Tacoma,Jackson,1154.46
+462,Amarillo,Visalia,456.74
+463,Indianapolis,Daytona Beach,702.21
+464,Denton,Athens,2249.66
+465,Santa Rosa,Kailua,295.5
+466,Kennewick,Ogden,1708.55
+467,Chattanooga,Simi Valley,627.94
+468,Port St. Lucie,Lexington,958.76
+469,Bethlehem,Harrisburg,1851.91
+470,Norwalk,Hesperia,727.34
+471,Stockton,Phoenix,1802.44
+472,Boston,Athens,785.01
+473,Pomona,Macon,616.36
+474,Grand Rapids,San Francisco,1311.21
+475,Sarasota,Killeen,739.68
+476,Richland,Beaumont,1242.33
+477,Omaha,Manchester,1601.44
+478,Corpus Christi,Richmond County,102.76
+479,Burbank,Fontana,1991.46
+480,Antioch,Daly City,2060.9
+481,GreenBay,Sioux Falls,487.01
+482,Palmdale,Apple Valley,1037.48
+483,Marina,Jersey City,2415.4
+484,Riverside,Port St. Lucie,1169.15
+485,Norwich,Salinas,683.41
+486,Coral Springs,Akron,952.46
+487,Murfreesboro,Palm Springs,1169.64
+488,Fairfield,Fresno,1019.33
+489,Arvada,Fort Lauderdale,126.31
+490,Rancho Cucamonga,Seattle,806.14
+491,Gulfport-Biloxi,Sioux City,1785.39
+492,Daytona Beach,Berkeley,2106.9
+493,Detroit,Bakersfield,267.57
+494,Poughkeepsie,Torrance,1918.13
+495,Fort Walton Beach,Hialeah,1792.75
+496,Ontario,Sterling Heights,595.94
+497,Phoenix,Tacoma,1364.03
+498,Fullerton,Costa Mesa,2462.22
+499,Pompano Beach,Youngstown,2277.1
+500,Provo,Waterloo,430.29
+501,Shreveport,Berkeley,2493.55
+502,Billings,Richmond County,1579.09
+503,Frederick,Amarillo,1756.29
+504,Winter Haven,Panama City,1999.33
+505,Lakeland,Norfolk,1129.9
+506,Olathe,Richland,869.87
+507,St. Petersburg,Downey,250.13
+508,Little Rock,Kailua,1939.01
+509,Mesa,Fairfield,2276.68
+510,Jacksonville,Tampa,1899.84
+511,Torrance,Kalamazoo,72.5
+512,Springfield,Barnstable,938.42
+513,Chesapeake,Tempe,1195.54
+514,Modesto,Pompano Beach,1564.27
+515,Escondido,Kailua,1466.99
+516,Shreveport,Minneapolis,2456.21
+517,Pasadena,Vallejo,2491.43
+518,Irving,Olympia,617.29
+519,Austin,Buffalo,1136.5
+520,Gastonia,Allentown,2204.45
+521,North Port,Amarillo,236.62
+522,Anaheim,Appleton,2232.3
+523,Rochester,Toledo,473.31
+524,Olathe,San Bernardino,2367.85
+525,Bremerton,Norfolk,694.95
+526,San Jose,McAllen,2381.03
+527,Normal,Boise,211.07
+528,Racine,Wilmington,62.48
+529,Burbank,Provo,389.04
+530,Las Vegas,Vallejo,121.27
+531,St. Louis,Victorville,1148.6
+532,Carrollton,Racine,1724.36
+533,Peoria,Clarksville,371.21
+534,South Lyon,Garland,492.91
+535,Grayslake,High Point,1564.29
+536,Flint,Hampton,2420.55
+537,Kissimmee,Waterbury,100.78
+538,Peoria,Ontario,2026.55
+539,Deltona,Stockton,1168.26
+540,Davenport,Champaign,1547.72
+541,Lansing,Green Bay,734.63
+542,Baltimore,Bradenton,1470.22
+543,Flint,Kissimmee,2284.39
+544,Spokane,Winter Haven,778.54
+545,Colorado Springs,Kenosha,221.02
+546,Appleton,Sterling Heights,2302.22
+547,Bakersfield,Roanoke,1278.98
+548,Richmond,Lacey,1630.09
+549,Denton,Tempe,1066.02
+550,Bakersfield,Victorville,1298.2
+551,Leominster,Lewisville,2147.26
+552,Temecula,Kissimmee,2492.19
+553,Round Lake Beach,Hollywood,2275.84
+554,Jackson,Appleton,1277.45
+555,Clearwater,Vero Beach,1234.59
+556,Harlingen,Lincoln,1351.23
+557,Lacey,Bonita Springs,2151.84
+558,Hagerstown,Virginia Beach,134.68
+559,Savannah,Pompano Beach,1890.97
+560,Cedar Rapids,Bethlehem,174.45
+561,Fort Wayne,Rockford,699.81
+562,McHenry,Sioux Falls,1345.89
+563,Vero Beach,Chesapeake,1447.31
+564,Howell,Cathedral City,157.28
+565,Riverside,Naples,471.22
+566,Clarke County,Atlantic City,322.87
+567,Bradenton,Minneapolis,2417.48
+568,Nashua,Shreveport,1124.08
+569,San Bernardino,Bridgeport,2173.11
+570,Hampton,Mesa,1988.11
+571,Torrance,Orlando,2430.27
+572,Knoxville,Warren,799.64
+573,Barnstable,Santa Cruz,1335.74
+574,Provo,Amarillo,1178.95
+575,Melbourne,Vallejo,1297.19
+576,Marysville,Springfield,1852.75
+577,Arlington,Riverside,766.45
+578,Oceanside,Havre de Grace,1787.35
+579,Apple Valley,McAllen,2343.32
+580,Olathe,Los Angeles,771.55
+581,Fontana,Punta Gorda,1548.22
+582,Hampton,Modesto,1130.79
+583,Syracuse,Lacey,56.78
+584,Pembroke Pines,West Covina,2367.77
+585,Richmond County,Stockton,1293.96
+586,Tallahassee,Cary,2058.7
+587,Poughkeepsie,Portsmouth,239.52
+588,San Bernardino,Irving,338.39
+589,Orange,Provo,1303.34
+590,Honolulu,Utica,1442.38
+591,Fullerton,Olympia,1811.84
+592,Birmingham,West Covina,1204.99
+593,Myrtle Beach,Gastonia,401.99
+594,Muskegon,New Orleans,537.42
+595,Hesperia,Grand Rapids,1355.7
+596,Westminster,Trenton,2013.23
+597,Dallas,Albuquerque,809.87
+598,San Francisco,Paterson,2182.8
+599,Sunnyvale,Raleigh,1671.66
+600,Hickory,Orlando,1141.27
+601,Howell,Oakland,854.13
+602,Scottsdale,Fontana,1237.3
+603,Charlotte,Olympia,1234.11
+604,Daytona Beach,Harrisburg,1861.27
+605,Omaha,Fitchburg,1853.63
+606,Arvada,Waterbury,481.34
+607,Corona,Sterling Heights,1332.49
+608,Spokane,Ogden,309.21
+609,Glendale,Denver,1244.11
+610,Panama City,Kansas City,1909.67
+611,Bridgeport,Santa Barbara,1452.55
+612,Provo,Canton,1860.64
+613,St. Petersburg,Springfield,121.73
+614,Richland,Kenosha,564.57
+615,Kansas City,Greensboro,1578.52
+616,Arvada,Irving,2005.5
+617,Reading,Newark,1921.34
+618,Sebastian,Bryan,2280.36
+619,Chula Vista,St. Paul,1327.7
+620,Fargo,Dayton,1571.66
+621,Punta Gorda,McHenry,639.71
+622,Fargo,Palmdale,650.28
+623,Garland,Tuscaloosa,312.67
+624,Tempe,Norfolk,2344.09
+625,Orem,Orlando,1316.76
+626,Youngstown,Toledo,985.06
+627,Baltimore,Abilene,1373.72
+628,Harlingen,Sacramento,2328.67
+629,Layton,Clearwater,2349.12
+630,Baton Rouge,Phoenix,2388.72
+631,Tallahassee,Kennewick,272.19
+632,Santa Maria,Poughkeepsie,810.76
+633,Coral Springs,Oxnard,689.65
+634,Fort Collins,Yakima,1548.38
+635,Richland,Huntington,1921.25
+636,Kenosha,Joliet,1009.63
+637,Tucson,Philadelphia,296.65
+638,Hampton,Muskegon,1311.4
+639,Boulder,Punta Gorda,899.05
+640,Panama City,Winston,1298.16
+641,Rockford,Santa Clarita,1160.88
+642,Oakland,Pompano Beach,2223.94
+643,Vero Beach,Orem,2293.35
+644,Palmdale,Garden Grove,1338.47
+645,Shreveport,Roanoke,107.31
+646,Fontana,Cleveland,819.49
+647,Tampa,Murfreesboro,2461.15
+648,Waco,Simi Valley,1927.77
+649,Worcester,Fort Walton Beach,2219.91
+650,Gilbert,Erie,1556.69
+651,Youngstown,Barnstable,2080.59
+652,Tuscaloosa,Kennewick,1650.74
+653,Atlantic City,Denver,1259.88
+654,Sioux Falls,Pembroke Pines,1310.53
+655,Boulder,Mesquite,1708.09
+656,Evansville,Riverside,502.45
+657,Fort Lauderdale,Santa Clara,298.17
+658,College Station,Bethlehem,2382.17
+659,Lewisville,Victorville,575.91
+660,Gastonia,Oakland,728.02
+661,Baltimore,Salem,997.12
+662,Corpus Christi,Lake Charles,654.65
+663,Minneapolis,Orem,1646.29
+664,New York,Detroit,1260.57
+665,Lorain,Roanoke,103.41
+666,Albuquerque,Seattle,791.25
+667,Clarksville,Nashua,1792.7
+668,Utica,Ann Arbor,2389.27
+669,Sacramento,Lafayette,1603.93
+670,Cambridge,Philadelphia,2047.38
+671,Medford,Poughkeepsie,2488.39
+672,Seattle,Oklahoma City,82.65
+673,Vallejo,Mesa,1320.78
+674,Lakewood,Antioch,72.2
+675,Murfreesboro,Duluth,2435.17
+676,Arvada,Huntington Beach,2397.87
+677,Grayslake,Panama City,413.99
+678,Daly City,Reading,993.66
+679,Saint Petersburg,Salem,2078.27
+680,Boulder,Provo,985.39
+681,Sioux City,Orange,465.0
+682,Pueblo,Huntington Beach,974.64
+683,Lakewood,Normal,1741.23
+684,Saint Paul,Elkhart,1975.29
+685,Bethlehem,Orange,1341.2
+686,Newburgh,Bel Air,1887.93
+687,Austin,Richland,599.18
+688,Richmond County,Sunnyvale,2394.24
+689,Peoria,Chicago,2319.8
+690,Bradenton,Saginaw,494.44
+691,Ocala,Houma,1420.48
+692,Santa Clarita,Orem,431.82
+693,Columbus,Waterbury,1547.46
+694,Atlanta,Lakeland,2369.8
+695,Torrance,Cedar Rapids,2475.19
+696,Kalamazoo,Odessa,1321.09
+697,South Bend,Palm Springs,217.24
+698,Cleveland,Youngstown,1513.08
+699,Yakima,Shreveport,1547.53
+700,Thousand Oaks,Richmond County,64.81
+701,Salt Lake City,Thornton,1644.72
+702,Rockford,Norman,1159.84
+703,Ogden,Ann Arbor,1797.74
+704,Gastonia,Washington,1601.57
+705,Oxnard,Newburgh,779.19
+706,Melbourne,Saginaw,578.83
+707,Anaheim,Westminster,2235.98
+708,Bryan,Corona,934.9
+709,Sarasota,Lowell,1612.67
+710,Panama City,Odessa,1298.31
+711,Chula Vista,Joliet,680.76
+712,Green Bay,Ocala,2158.22
+713,Westminster,Spokane,492.85
+714,Colorado Springs,Bel Air,836.42
+715,Syracuse,Winston,2159.02
+716,Pasadena,Cleveland,134.63
+717,Victorville,Birmingham,562.23
+718,Port Orange,Jersey City,1364.07
+719,Athens,Lubbock,150.52
+720,Minneapolis,Providence,1552.41
+721,Akron,Syracuse,1513.64
+722,Cedar Rapids,Vallejo,1779.06
+723,Hayward,Santa Clarita,1803.35
+724,Ocala,San Francisco,1250.37
+725,Harlingen,Champaign,681.84
+726,Roseville,Eugene,1018.52
+727,Burbank,Fitchburg,1027.76
+728,Long Beach,Duluth,1726.22
+729,Burbank,Pompano Beach,2005.27
+730,Richland,Fort Smith,198.3
+731,Greensboro,Mission Viejo,411.48
+732,Bryan,Lacey,2325.93
+733,Huntington,Houston,1324.59
+734,Fullerton,Fargo,1915.76
+735,Lakewood,Chesapeake,597.23
+736,Roseville,Corpus Christi,2451.04
+737,Topeka,Sioux City,1964.05
+738,Seaside,Richland,1558.26
+739,Fort Wayne,Ann Arbor,1719.72
+740,Omaha,Racine,1687.72
+741,Wichita,Aurora,1479.0
+742,Lake Charles,Tampa,1744.32
+743,New Haven,Bonita Springs,1903.8
+744,Berkeley,Gilbert,493.25
+745,Santa Cruz,Baton Rouge,2450.0
+746,Barnstable,Tampa,935.28
+747,Orange,Stamford,124.1
+748,Green Bay,Springdale,469.78
+749,San Francisco,Cathedral City,2105.8
+750,Sioux City,Austin,1163.6
+751,Detroit,Clearwater,1635.26
+752,Escondido,Lincoln,567.45
+753,Minneapolis,Tampa,850.59
+754,Deltona,North Port,679.17
+755,Saginaw,Duluth,2120.36
+756,Ocala,Memphis,361.96
+757,Lafayette,Charlotte,1266.78
+758,Seattle,Champaign,1194.55
+759,Irving,Hemet,155.34
+760,Richmond County,Irvine,1875.91
+761,Bonita Springs,Marina,1335.85
+762,Modesto,Sunnyvale,1274.72
+763,Houma,Aberdeen,546.98
+764,Omaha,Buffalo,2346.33
+765,Waco,Westminster,954.11
+766,Pensacola,Houma,1414.92
+767,Dallas,Coral Springs,2014.67
+768,Melbourne,Fremont,1523.2
+769,Kailua,Columbus,2477.82
+770,Savannah,Newark,221.19
+771,Modesto,Punta Gorda,494.97
+772,Palmdale,Antioch,629.73
+773,Buffalo,Naples,1825.28
+774,Pensacola,Independence,1116.66
+775,Richmond,Ontario,752.13
+776,Newark,Newburgh,362.21
+777,Boulder,Oceanside,182.69
+778,Grand Rapids,Tyler,1468.42
+779,Fresno,Oceanside,2203.62
+780,Fort Collins,Peoria,119.45
+781,Macon,Jacksonville,2381.04
+782,Nashville,Port Arthur,516.91
+783,Ontario,Omaha,1200.28
+784,Fayetteville,Riverside,1997.57
+785,San Jose,Richmond County,971.11
+786,Gilbert,Fort Smith,2415.51
+787,Abilene,Lacey,2358.47
+788,Canton,Bonita Springs,1419.92
+789,Nashville,Flint,481.73
+790,Henderson,Deltona,1983.66
+791,Chandler,Fort Wayne,1539.56
+792,Scranton,Burlington,1838.77
+793,Monterey,Las Vegas,758.56
+794,Mobile,Appleton,2392.0
+795,Oklahoma City,Overland Park,1447.65
+796,Bryan,Bethlehem,642.15
+797,Albuquerque,Denton,471.9
+798,Downey,Odessa,890.0
+799,Scottsdale,Fontana,2113.11
+800,Jackson,New Bedford,769.47
+801,Pensacola,Fort Wayne,645.41
+802,Ann Arbor,Corpus Christi,603.77
+803,Chula Vista,Clarke County,1661.9
+804,Ontario,Peoria,1296.85
+805,Irvine,Punta Gorda,705.68
+806,Tyler,Santa Clara,736.24
+807,Columbus,Provo,1513.85
+808,Newburgh,Ocala,1467.15
+809,Tyler,Escondido,1647.91
+810,New York City,Grand Prairie,1239.18
+811,Port Saint Lucie,Cleveland,2107.98
+812,Sioux City,Vero Beach,637.41
+813,Dallas,Richmond,2196.22
+814,New Orleans,Brownsville,1900.66
+815,Normal,Alexandria,1483.36
+816,Eugene,Minneapolis,1818.77
+817,West Valley City,Salinas,1781.17
+818,Huntington Beach,San Antonio,343.39
+819,Round Lake Beach,Paterson,904.97
+820,Escondido,Palmdale,1456.93
+821,Las Cruces,Champaign,2065.93
+822,Orem,Palm Springs,2428.36
+823,Albuquerque,Worcester,740.46
+824,Houma,New York,1354.19
+825,Port Saint Lucie,Nashua,2008.12
+826,Norwalk,Brownsville,1582.49
+827,Scranton,Naperville,764.76
+828,Fullerton,Denton,308.78
+829,Bonita Springs,Winter Haven,806.56
+830,Myrtle Beach,Roseville,1682.6
+831,Canton,Albuquerque,1146.34
+832,Allentown,Saint Petersburg,136.8
+833,College Station,Punta Gorda,523.11
+834,Kailua,Canton,2262.52
+835,Oakland,Fullerton,1538.6
+836,Denton,Trenton,2125.36
+837,Palm Springs,Orem,1438.11
+838,Grand Prairie,Santa Rosa,1123.28
+839,Thornton,Lorain,2049.37
+840,Kalamazoo,Phoenix,1595.75
+841,Colorado Springs,Fort Worth,240.21
+842,Deltona,Amarillo,2144.83
+843,Long Beach,Huntington,2416.28
+844,Clarke County,Lincoln,579.41
+845,Cathedral City,Billings,2203.61
+846,Cambridge,Tyler,1191.51
+847,Grayslake,Manchester,1980.01
+848,Round Lake Beach,Port Saint Lucie,1656.08
+849,Milwaukee,Kalamazoo,1054.42
+850,Lancaster,Akron,756.02
+851,Murfreesboro,Bremerton,1348.99
+852,Oceanside,Vancouver,2312.48
+853,Yonkers,Lafayette,2425.57
+854,Dayton,Beaumont,1830.03
+855,Saint Louis,Escondido,1712.03
+856,Chesapeake,Jackson,2392.65
+857,Medford,Laredo,464.14
+858,Huntington,Detroit,2194.87
+859,Garden Grove,York,783.31
+860,Rancho Cucamonga,Newark,1581.41
+861,Berkeley,Santa Rosa,1636.16
+862,Springdale,Laredo,1503.15
+863,Roseville,Cedar Rapids,513.97
+864,Spokane,Bridgeport,618.22
+865,Wichita,Saint Paul,1914.88
+866,Oceanside,Charleston,1975.32
+867,Rochester,Stockton,1164.72
+868,Plano,Bethlehem,1210.6
+869,Downey,Grand Rapids,1170.88
+870,Spokane,Boulder,1271.46
+871,Marina,McHenry,1243.1
+872,Bremerton,Pembroke Pines,1849.74
+873,Glendale,Amarillo,1653.14
+874,West Covina,Burbank,1938.11
+875,Pensacola,Portland,1499.8
+876,Greensboro,Boulder,237.16
+877,Manchester,Orlando,490.67
+878,Kaneohe,Carrollton,1197.85
+879,Chesapeake,Newburgh,1970.78
+880,Champaign,Jackson,1036.88
+881,Sunnyvale,Davidson County,315.62
+882,Trenton,Winter Haven,897.26
+883,Hialeah,Waco,1625.47
+884,Syracuse,Kansas City,1124.84
+885,Independence,Kaneohe,712.7
+886,Kansas City,Las Cruces,1164.61
+887,Tacoma,Huntington,2241.48
+888,Waterbury,Sunnyvale,192.79
+889,Akron,Barnstable,482.42
+890,Jacksonville,Waterbury,2149.93
+891,Reno,Bellevue,1861.18
+892,Fort Worth,Oklahoma City,717.11
+893,Monroe,Irvine,2442.49
+894,South Bend,Leominster,1460.9
+895,Brighton,High Point,229.12
+896,Philadelphia,Burlington,1814.58
+897,Joliet,Lake Charles,613.53
+898,Milwaukee,Santa Cruz,1691.44
+899,Ontario,Cathedral City,732.01
+900,Norfolk,Roseville,1851.7
+901,Coral Springs,Saint Paul,455.77
+902,Norwich,Portland,750.39
+903,Winston,North Port,263.23
+904,Flint,Little Rock,2043.04
+905,Newark,Coral Springs,2086.08
+906,Albany,Boulder,129.69
+907,Asheville,Port St. Lucie,2021.73
+908,St. Paul,Paterson,418.55
+909,Abilene,Denver,2384.58
+910,Chula Vista,Ann Arbor,2424.84
+911,Norman,Lafayette,322.76
+912,McAllen,Vancouver,276.29
+913,Hialeah,Bridgeport,2219.7
+914,Antioch,Roseville,274.02
+915,Springdale,Miramar,223.66
+916,Huntsville,Kenosha,453.78
+917,Kailua,McAllen,1150.95
+918,Kennewick,Lincoln,496.59
+919,Asheville,Torrance,198.17
+920,Columbus,St. Louis,997.67
+921,Hemet,Jersey City,1186.73
+922,Richmond County,Saint Louis,2063.12
+923,Deltona,Lakewood,1598.06
+924,Stamford,Bryan,2191.76
+925,Huntsville,Havre de Grace,1197.48
+926,Bonita Springs,Naples,613.17
+927,Norwalk,Nashua,1927.83
+928,Kaneohe,Garland,1738.5
+929,Medford,Saint Louis,223.86
+930,Coral Springs,Bryan,1233.87
+931,Newport News,Bridgeport,2410.16
+932,Virginia Beach,Atlanta,1495.52
+933,San Antonio,Saint Paul,589.0
+934,Spokane,Lakeland,1485.48
+935,Tallahassee,Lubbock,1688.64
+936,Mesa,New London,2294.18
+937,Saint Petersburg,Odessa,700.04
+938,Richland,Montgomery,185.94
+939,Ontario,Philadelphia,488.17
+940,Fort Walton Beach,Springdale,218.11
+941,Columbia,Lowell,398.3
+942,Detroit,Abilene,522.76
+943,Frederick,Sioux City,1611.0
+944,North Port,Charlotte,1670.24
+945,Cleveland,Modesto,2184.63
+946,Virginia Beach,Lubbock,2031.2
+947,Reno,Garden Grove,1165.74
+948,Lewisville,Gainesville,2174.82
+949,Ann Arbor,Rockford,1656.71
+950,Berkeley,Westminster,1110.41
+951,Santa Clarita,Salt Lake City,1695.16
+952,Boston,Washington,2339.53
+953,Albuquerque,Chandler,1172.34
+954,Fullerton,Dayton,2328.72
+955,Waterbury,Tuscaloosa,271.51
+956,Salinas,Orange,78.52
+957,New London,Overland Park,423.65
+958,North Port,Ocala,2281.15
+959,Kenosha,Harlingen,2359.18
+960,Canton,Riverside,1641.29
+961,Paterson,High Point,2116.67
+962,Boise City,Olathe,1708.52
+963,Santa Clara,Bremerton,1881.44
+964,New Orleans,Macon,870.14
+965,Palm Springs,Odessa,1677.93
+966,Long Beach,Kailua,1128.33
+967,Port St. Lucie,Rockford,223.4
+968,St. Paul,Chicago,466.43
+969,Marysville,Richmond,1330.16
+970,Nashua,York,210.75
+971,Abilene,Cedar Rapids,2128.91
+972,Joliet,Long Beach,1389.29
+973,Seaside,Baton Rouge,189.05
+974,Sunnyvale,Mobile,2495.54
+975,Orange,Sunnyvale,1442.46
+976,Austin,El Paso,2302.84
+977,Pomona,Fairfield,567.81
+978,Lowell,McAllen,2066.77
+979,Olympia,North Port,1893.5
+980,Inglewood,Green Bay,801.33
+981,Anaheim,New Bedford,855.13
+982,Garden Grove,Raleigh,852.34
+983,Toledo,New Bedford,624.65
+984,West Covina,Bakersfield,585.49
+985,Santa Clara,Inglewood,1816.17
+986,Chula Vista,Hampton,1318.59
+987,Aberdeen,Atlanta,1445.06
+988,Clearwater,Syracuse,1306.99
+989,Eugene,Hampton,2025.21
+990,Dayton,Anaheim,1782.99
+991,Athens,Jefferson,653.59
+992,Lafayette,Albany,1960.19
+993,Pueblo,Seattle,936.5
+994,Asheville,Charlotte,2131.9
+995,Bonita Springs,Atlantic City,2176.78
+996,Tampa,Davenport,139.15
+997,Akron,South Bend,1744.38
+998,Santa Ana,Baton Rouge,2028.45
+999,Aberdeen,Yonkers,2182.09
+1000,Deltona,Kaneohe,2016.61
