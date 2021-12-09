@@ -4,6 +4,11 @@ public class cheapestFlightsWithinKStops {
     public static void main(String[] args) {
         int[][] edges = {{0, 1, 100}, {1, 2, 100}, {0, 2, 500}};
 
+        int[][] e0 = {{0,1, 20}, {1, 0, 30}, {1, 2, 40}};
+
+        int[][] e1 = {{0, 1, 100}, {0, 2, 100}, {0, 3, 300}, {1, 2, 100},
+                {1, 3, 30}, {2, 3, 50}, {3, 0, 20}, {3, 1, 30}};
+
         int[][] e2 = {{0, 3, 7}, {4, 5, 3}, {6, 4, 8}, {6, 5, 6}, {1, 2, 2}, {2, 5, 9}, {2, 6, 8},
                 {3, 6, 3}, {4, 0, 10}, {4, 6, 8}, {5, 2, 6}, {1, 4, 3}, {4, 1, 6}, {0, 5, 10}, {3, 1, 5},
                 {4, 3, 1}, {5, 4, 10}, {0, 1, 6}};
@@ -20,6 +25,7 @@ public class cheapestFlightsWithinKStops {
                 {16,14,52},{3,10,80},{14,11,85},{15,2,77},{4,11,19},{2,7,49},{10,7,78},{14,6,84},{13,7,50},{11,6,75},
                 {5,10,46},{13,8,43},{9,10,49},{7,12,64},{0,10,76},{5,9,77},{8,3,28},{11,9,28},{12,16,87},{12,6,24},
                 {9,15,94},{5,7,77},{4,10,18},{7,2,11},{9,5,41}};
+
         long start = System.nanoTime();
         System.out.println(BellmanFord.findCheapestPrice(17, e3, 13, 4, 8));
         long finish = System.nanoTime();
@@ -27,11 +33,16 @@ public class cheapestFlightsWithinKStops {
         System.out.println("Time elapsed in nanoseconds is: " + timeElapsed + "\n");
 
         start = System.nanoTime();
-        System.out.println(DFSWithMemoization.findCheapestPrice(17, e3, 13, 4, 8));
+        System.out.println(DFS.findCheapestPrice(3, e0, 0, 2, 10));
         finish = System.nanoTime();
         timeElapsed = finish - start;
         System.out.println("Time elapsed in nanoseconds is: " + timeElapsed + "\n");
 
+        start = System.nanoTime();
+        System.out.println(DFSWithPruning.findCheapestPrice(17, e3, 13, 4, 8));
+        finish = System.nanoTime();
+        timeElapsed = finish - start;
+        System.out.println("Time elapsed in nanoseconds is: " + timeElapsed + "\n");
 
         start = System.nanoTime();
         System.out.println(Dijkstra.findCheapestPrice(17, e3, 13, 4, 8));

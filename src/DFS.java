@@ -22,7 +22,7 @@ public class DFS {
         for (int[] flight : flights) {
             if (flight[0] == i) {
                 int weight = flight[2];
-                cost = Math.min(cost, dfs(flights, flight[1], dst, k - 1) + weight);
+                cost = Math.min(cost, weight + dfs(flights, flight[1], dst, k - 1) );
             }
         }
 
